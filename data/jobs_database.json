@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "title": "Software Developer",
+    "category": "Technology",
+    "description": "Develop and maintain software applications",
+    "required_skills": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "Git"
+    ],
+    "min_experience": 1,
+    "salary_range": "$70,000 - $90,000"
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist",
+    "category": "Data Science",
+    "description": "Analyze and interpret complex data",
+    "required_skills": [
+      "Python",
+      "R",
+      "SQL",
+      "Machine Learning",
+      "Statistics"
+    ],
+    "min_experience": 2,
+    "salary_range": "$80,000 - $110,000"
+  },
+  {
+    "id": 3,
+    "title": "UX Designer",
+    "category": "Design",
+    "description": "Create user-friendly interfaces",
+    "required_skills": [
+      "UI Design",
+      "User Research",
+      "Wireframing",
+      "Prototyping"
+    ],
+    "min_experience": 1,
+    "salary_range": "$65,000 - $85,000"
+  }
+]
